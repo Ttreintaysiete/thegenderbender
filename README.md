@@ -1,4 +1,4 @@
-# thegenderbender
-The Gender Bender
+# The Gender Bender
+
 
 Probabilistic drum trigger generator.
