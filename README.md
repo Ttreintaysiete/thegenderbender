@@ -32,5 +32,5 @@ Banana & minijack compatible
 
 28HP
 
-We recommend # [TY TOOLS] (http://neodd.com/tytools) for upload the firmware
+We recommend [TY TOOLS](http://neodd.com/tytools) for upload the firmware
 
