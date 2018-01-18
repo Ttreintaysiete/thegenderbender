@@ -4,7 +4,7 @@
 * stand alone (powered by USB) and eurorack
 * simultaneous midi in/out, midi usb and modular trigger outputs
 * 5 parameters per track density, division, fill, velocity and duration
-* independant LFO per parameter per instrument for a total of 35 internal LFOs
+* independant LFOs per parameter per instrument for a total of 35 internal LFOs
 * each LFO has 5 parameters wave, division, amplitude, offset and PWM.
 * midiout (both midi connector and midiusb) with another 35 independant LFOs for a total of 70
 * 2 assignable CV INs to any parameter
