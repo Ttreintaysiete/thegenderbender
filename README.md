@@ -36,7 +36,7 @@ It has the posibility to save the current state of all the parameters into a sna
 It incorporates the permutation algorythm from Nicolas Collins's paper:
 https://composerprogrammer.com/research/acmethodsforbbsci.pdf
 
-It requires a midi clock either from its clock input, midi or usb midi ins to start the sequence.
+It requires a __clock signal__ from either its clock input, midi or usb midi to start/stop the sequence.
 
 Components:
 * Teensy 3.2
