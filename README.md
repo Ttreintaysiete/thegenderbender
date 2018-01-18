@@ -33,7 +33,8 @@ The name __Gender Bender__ refers to the capability of mixing or __bend__ differ
 
 It has the posibility to save the current state of all the parameters into a snapshot in the SD and to load it on the fly for performance.
 
-It incorporates the permutation algorythm from Nicolas Collins's paper:
+It incorporates the permutation algorythm (automatic breakbeat
+cutting) from Nicolas Collins's paper:
 https://composerprogrammer.com/research/acmethodsforbbsci.pdf
 
 It requires a __clock signal__ from either its clock input, midi or usb midi to start/stop the sequence.
