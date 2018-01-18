@@ -41,7 +41,7 @@ It requires a __clock signal__ from either its clock input, midi or usb midi to 
 Components:
 * Teensy 3.2
 * 5 encoders with push button
-* momentary push buttons
+* 7 momentary push buttons
 * Joystick (PS2 for instance), you need to remove the spring
 * 1.3" OLED Display
 * vertical Midi IN & OUT connectors
