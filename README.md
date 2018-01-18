@@ -20,11 +20,11 @@
 
 - [Mouser project](https://www.mouser.es/ProjectManager/ProjectDetail.aspx?State=EDIT&ProjectGUID=648036c1-8d6a-4717-aa2b-a728f60b2be2)
 
-Loosely based in the Mutable Instruments GRIDS (and Anushri), the __Gender Bender__ morphs between 9 different patters per track to creat probabilistic rythms with different densities that are simultaneously sent via voltage trigger, midi y midi USB.
+Loosely based in the Mutable Instruments GRIDS (and Anushri), the __Gender Bender__ can morphs between 9 different patterns per track to create probabilistic rythms with different densities that are simultaneously sent via voltage trigger, midi y midi USB.
 
-The name (Gender Bender) refers to the capability of mixing or bend different drums rythms and styles in the same patter, for instance you can choose the BD from techno, HH from drum&bass, TOMS from samba, etc...
+The name __Gender Bender__ refers to the capability of mixing or __bend__ different drums rythms and styles in the same pattern, for instance you can choose the BD from techno, HH from drum&bass, TOMS from samba, etc... and an infamous [Mexican Bender robot](https://en.wikipedia.org/wiki/Bender_(Futurama)).
 
-It has the posibility to save the current snapshot in the SD and load it on the fly for performance.
+It has the posibility to save the current state of all the parameters into a snapshot in the SD and to load it on the fly for performance.
 
 It incorporates the permutation algorythm from Nicolas Collins's paper:
 https://composerprogrammer.com/research/acmethodsforbbsci.pdf
