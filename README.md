@@ -1,7 +1,18 @@
 # The Gender Bender
 
-
-Probabilistic drum trigger generator.
+* 7 track probabilistic drum trigger generator
+* stand alone (powered by USB) and eurorack
+* simultaneous midi in/out, midi usb and modular trigger outputs
+* 5 parameters per track density, division, fill, velocity and duration
+* independant LFO per parameter per instrument for a total of 35 internal LFOs
+* each LFO has 5 parameters wave, division, amplitude, offset and PWM.
+* midiout (both midi connector and midiusb) with another 35 independant LFOs for a total of 70
+* 2 assignable CV INs to any parameter
+* SD card for saving and loading patterns in text format
+* joystick to morph between 9 different sequences per track
+* global parameters like division, density, fill, velocity and individual mutes per track for live performance
+* sequence edit mode
+* midi configuration per track with parameters like midi channel #, traspose multiplier, multiplication, division and midi note (cc messages modulated by LFO to produce notes)
 
 ![the-gender-bender](https://user-images.githubusercontent.com/6823868/29998083-3386c7a6-9022-11e7-9b96-6b8f59b2f1cc.jpg)
 
