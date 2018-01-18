@@ -13,35 +13,31 @@
 * global parameters like division, density, fill, velocity and individual mutes per track for live performance
 * sequence edit mode
 * midi configuration per track with parameters like midi channel #, traspose multiplier, multiplication, division and midi note (cc messages modulated by LFO to produce notes)
+* compatible with Banana & minijack
+* 28HP
 
 ![the-gender-bender](https://user-images.githubusercontent.com/6823868/29998083-3386c7a6-9022-11e7-9b96-6b8f59b2f1cc.jpg)
 
 - [Mouser project](https://www.mouser.es/ProjectManager/ProjectDetail.aspx?State=EDIT&ProjectGUID=648036c1-8d6a-4717-aa2b-a728f60b2be2)
 
-Basado en Mutable Instruments GRIDS. 		 	 	 				
-The Gender Bender mezcla 9 patrones distintos por track para crear ritmos probabilísticos con distintas densidades, que son enviados simultáneamente via trigger, midi y USB midi.
+Loosely based in the Mutable Instruments GRIDS (and Anushri), the __Gender Bender__ morphs between 9 different patters per track to creat probabilistic rythms with different densities that are simultaneously sent via voltage trigger, midi y midi USB.
 
-Generador de triggers probabilístico.
-El nombre hace referencia a la posibilidad de mezclar géneros/ estilos dentro de un mismo patrón. 
-Dispone de siete tracks con salida de trigger independiente, clock out, clock in, reset y dos cv in asignables internamente via software. Midi in y out, lector de tarjetas sd para poder guardar snapshots y estilos. 
+The name (Gender Bender) refers to the capability of mixing or bend different drums rythms and styles in the same patter, for instance you can choose the BD from techno, HH from drum&bass, TOMS from samba, etc...
 
-Incorpora el algoritmo de permutación de Nicolas Collins:
+It has the posibility to save the current snapshot in the SD and load it on the fly for performance.
+
+It incorporates the permutation algorythm from Nicolas Collins's paper:
 https://composerprogrammer.com/research/acmethodsforbbsci.pdf
 
-Necesita un clock, midi clock o usb clock para iniciar las secuencias.
+It requires a midi clock either from its clock input, midi or usb midi ins to start the sequence.
 
-Componentes:
-Teensy 3.2
-5 encoders con pulsador
-Joystick Ps2 sin retorno
-Pantalla Oled 1.3”
-Midi in & out
-Usb
-MicroSD
-
-Banana & minijack compatible
-
-28HP
+Components:
+* Teensy 3.2
+* 5 encoders with push button
+* Joystick (PS2 for instance), you need to remove the spring
+* 1.3" OLED Display
+* vertical Midi IN & OUT connectors
+* vertical USB connector
+* vertical MicroSD reader and micro SD card.
 
 We recommend [TY TOOLS](http://neodd.com/tytools) for upload the firmware
-
