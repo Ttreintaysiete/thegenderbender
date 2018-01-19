@@ -29,7 +29,7 @@
 
 Loosely based in the Mutable Instruments GRIDS (and Anushri), the __Gender Bender__ can morphs between 9 different patterns per track to create probabilistic rythms with different densities that are simultaneously sent via voltage trigger, midi y midi USB.
 
-The name __Gender Bender__ refers to the capability of mixing or __bend__ different drums rythms and styles in the same pattern, for instance you can choose the BD from techno, HH from drum&bass, TOMS from samba, etc... and an infamous [Mexican Bender robot](https://en.wikipedia.org/wiki/Bender_(Futurama)).
+The name __Gender Bender__ refers to the capability of mixing or __bend__ different drums rythms, styles or __genders__ in the same pattern, for instance you can choose the BD from techno, HH from drum&bass, TOMS from samba, etc... and an infamous [Mexican Bender robot](https://en.wikipedia.org/wiki/Bender_(Futurama)).
 
 It has the posibility to save the current state of all the parameters into a snapshot in the SD and to load it on the fly for performance.
 
