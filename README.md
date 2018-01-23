@@ -50,3 +50,5 @@ Components:
 * vertical MicroSD reader and micro SD card.
 
 We recommend [TY TOOLS](http://neodd.com/tytools) for upload the firmware
+
+- [Mouser project](https://www.mouser.es/ProjectManager/ProjectDetail.aspx?State=EDIT&ProjectGUID=f296fdb6-94c8-4a3b-bbea-0cd3ca61aec2) Whitout minijacks.
