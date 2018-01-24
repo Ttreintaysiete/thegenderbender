@@ -10,7 +10,7 @@
 * Midiout x 2 (both midi connector and midiusb) with an additional 35 independant LFOs gives a total of 70
 * 2 assignable CV INs for any parameter
 * SD card for saving and loading patterns in text format
-* Joystick to morph between 9 different sequences per track
+* Joystick for morphing between 9 different sequences per track
 * Global parameters like division, density, fill, velocity and individual mutes per track for live performance
 * Sequence edit mode
 * Midi configuration per track with parameters like midi channel #, transpose multiplier, multiplication, division and midi note (cc messages modulated by LFO to produce notes)
