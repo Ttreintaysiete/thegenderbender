@@ -1,21 +1,21 @@
 # The Gender Bender
 
 * 7 track probabilistic drum trigger generator
-* stand alone version (powered by USB) and eurorack module
-* simultaneous midi in/out, midi usb and modular trigger outputs
+* Stand alone version (powered by USB) and eurorack module
+* Simultaneous midi in/out, midi usb and modular trigger outputs
 * Requires a clock signal to start/stop the sequence from either a voltage clock, midi or usb midi  input.
 * 5 parameters per track density, division, fill, velocity and duration
-* independant LFOs per parameter per track/ instrument gives a total of 35 internal LFOs
-* each LFO has 5 parameters wave, division, amplitude, offset and PWM.
-* midiout x 2 (both midi connector and midiusb) with an additional 35 independant LFOs gives a total of 70
+* Independant LFOs per parameter per track/ instrument gives a total of 35 internal LFOs
+* Each LFO has 5 parameters wave, division, amplitude, offset and PWM.
+* Midiout x 2 (both midi connector and midiusb) with an additional 35 independant LFOs gives a total of 70
 * 2 assignable CV INs for any parameter
 * SD card for saving and loading patterns in text format
-* joystick to morph between 9 different sequences per track
-* global parameters like division, density, fill, velocity and individual mutes per track for live performance
-* sequence edit mode
-* midi configuration per track with parameters like midi channel #, transpose multiplier, multiplication, division and midi note (cc messages modulated by LFO to produce notes)
+* Joystick to morph between 9 different sequences per track
+* Global parameters like division, density, fill, velocity and individual mutes per track for live performance
+* Sequence edit mode
+* Midi configuration per track with parameters like midi channel #, transpose multiplier, multiplication, division and midi note (cc messages modulated by LFO to produce notes)
 * It is posible to save the current state of all the parameters into a snapshot on the SD card loading them on the fly during performance.
-* compatible with both Banana & minijack
+* Compatible with both Banana & minijack
 * 28HP
 
 # Videos
@@ -33,7 +33,7 @@ Loosely based on the Mutable Instruments GRIDS (and Anushri), the __Gender Bende
 
 
 
-The name __Gender Bender__ Refers to the ‘Futurama’ character 
+The name "The Gender Bender" refers to the character from ‘Futurama’ 
 
 
 It incorporates the algorythmic permutation  (automatic breakbeat cutting) from Nicolas Collins's paper:
