@@ -29,7 +29,7 @@
 
 - [Mouser project](https://www.mouser.es/ProjectManager/ProjectDetail.aspx?State=EDIT&ProjectGUID=648036c1-8d6a-4717-aa2b-a728f60b2be2)
 
-Loosely based on the Mutable Instruments GRIDS (and Anushri), the __Gender Bender__ can morph between 9 different patterns per track to create probabilistic rythms with different densities that are simultaneously sent via voltage trigger, midi and midi USB.
+Loosely based on the Mutable Instruments GRIDS (and Anushri),  _The Gender Bender__ can morph between 9 different patterns per track to create probabilistic rythms with different densities that are simultaneously sent via voltage trigger, midi and midi USB.
 
 
 
