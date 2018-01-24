@@ -36,7 +36,7 @@ Loosely based on the Mutable Instruments GRIDS (and Anushri),  __The Gender Bend
 The name __The Gender Bender__ refers to the character from __Futurama__
 
 
-It incorporates the algorythmic permutation  (automatic breakbeat cutting) from Nicolas Collins's paper:
+It incorporates the algorythmic permutation  (automatic breakbeat cutting) from __Nicolas Collins__'s paper:
 https://composerprogrammer.com/research/acmethodsforbbsci.pdf
 
 
