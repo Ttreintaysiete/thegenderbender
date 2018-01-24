@@ -29,11 +29,11 @@
 
 - [Mouser project](https://www.mouser.es/ProjectManager/ProjectDetail.aspx?State=EDIT&ProjectGUID=648036c1-8d6a-4717-aa2b-a728f60b2be2)
 
-Loosely based on the Mutable Instruments GRIDS (and Anushri),  _The Gender Bender__ can morph between 9 different patterns per track to create probabilistic rythms with different densities that are simultaneously sent via voltage trigger, midi and midi USB.
+Loosely based on the Mutable Instruments GRIDS (and Anushri),  __The Gender Bender__ can morph between 9 different patterns per track to create probabilistic rythms with different densities that are simultaneously sent via voltage trigger, midi and midi USB.
 
 
 
-The name "The Gender Bender" refers to the character from ‘Futurama’ 
+The name __The Gender Bender__ refers to the character from __Futurama__
 
 
 It incorporates the algorythmic permutation  (automatic breakbeat cutting) from Nicolas Collins's paper:
