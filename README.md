@@ -27,7 +27,7 @@
 
 ![the-gender-bender](https://user-images.githubusercontent.com/6823868/29998083-3386c7a6-9022-11e7-9b96-6b8f59b2f1cc.jpg)
 
-- [Mouser project](https://www.mouser.es/ProjectManager/ProjectDetail.aspx?State=EDIT&ProjectGUID=648036c1-8d6a-4717-aa2b-a728f60b2be2)
+- [Mouser project](https://www.mouser.com/ProjectManager/ProjectDetail.aspx?AccessID=d3ca61aec2) Without minijacks.
 
 Loosely based on the Mutable Instruments GRIDS (and Anushri),  __The Gender Bender__ can morph between 9 different patterns per track to create probabilistic rythms with different densities that are simultaneously sent via voltage trigger, midi and midi USB.
 
@@ -52,5 +52,4 @@ Components:
 * vertical MicroSD reader and micro SD card.
 
 We recommend [TY TOOLS](http://neodd.com/tytools) for uploading the firmware
-
-- [Mouser project](https://www.mouser.com/ProjectManager/ProjectDetail.aspx?AccessID=d3ca61aec2 ) Without minijacks.
+ 
