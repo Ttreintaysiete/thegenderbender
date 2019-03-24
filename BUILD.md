@@ -2,6 +2,9 @@
 
 ## Step 1 - resistors ....
 ![alt text](GB_Montaje_1.jpg "Step 1")
+![alt text](GB_Montaje_1_zoom.png	 "Step 1 - zoom")
+
+
 
 ## Step 2 - resistors ....
 ![alt text](GB_Montaje_2.jpg "Step 2")
