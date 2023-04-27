@@ -51,5 +51,5 @@ Components:
 * vertical USB connector
 * vertical MicroSD reader and micro SD card.
 
-We recommend [TY TOOLS](http://neodd.com/tytools) for uploading the firmware
+We recommend [TY TOOLS](https://koromix.dev/tytools) for uploading the firmware
  
